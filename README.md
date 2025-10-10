@@ -85,6 +85,9 @@ Berikut penjelasan setiap library yang digunakan dalam program:
 
 ---
 
+![Hasil Deteksi](https://raw.githubusercontent.com/mnaufalrona/hand-detection/main/hasil.png)
+
+
 ## 🖥️ Instalasi & Menjalankan Program
 
 ### 1️⃣ Instal Library
