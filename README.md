@@ -95,6 +95,6 @@ pip install opencv-python mediapipe pygame gtts
 python deteksi_tangan.py
 
 
+![Hasil Deteksi](hasil.png)
 
-## 🧠 Alur Logika Sederhana
 
