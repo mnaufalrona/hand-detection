@@ -94,10 +94,7 @@ pip install opencv-python mediapipe pygame gtts
 ## Jalankan Program
 python deteksi_tangan.py
 
-## 📸 Hasil Deteksi Tangan
-Berikut contoh hasil deteksi jari oleh program:
 
-![Hasil Deteksi](https://raw.githubusercontent.com/mnaufalrona/main/hasil.png)
 
 
 
