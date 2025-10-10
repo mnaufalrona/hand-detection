@@ -98,3 +98,4 @@ python deteksi_tangan.py
 ![Hasil Deteksi](hasil.png)
 
 
+
