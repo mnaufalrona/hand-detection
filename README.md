@@ -98,7 +98,7 @@ python deteksi_tangan.py
 
 Program ini berhasil mendeteksi jumlah jari dan menampilkan hasilnya seperti berikut:
 
-![Hasil Deteksi]([https://raw.githubusercontent.com/mnaufalrona/hand-detection/blob/main/hasil.png](https://github.com/mnaufalrona/hand-detection/blob/main/hasil.png))
+![Hasil Deteksi](https://github.com/mnaufalrona/hand-detection/blob/main/hasil.png)
 
 
 
